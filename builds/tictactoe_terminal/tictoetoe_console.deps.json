@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "tictoetoe_console/1.0.0": {
+        "dependencies": {
+          "TicTacToe_engine": "1.0.0"
+        },
+        "runtime": {
+          "tictoetoe_console.dll": {}
+        }
+      },
+      "TicTacToe_engine/1.0.0": {
+        "runtime": {
+          "TicTacToe_engine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tictoetoe_console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TicTacToe_engine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
